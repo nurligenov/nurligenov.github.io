@@ -1,9 +1,14 @@
 .container{
+    width: 100%;
+    height: 100%;
     background: antiquewhite;
 }
-.images{
-    width: 100px;
-    display: flex;
-    margin-bottom: 20%;
-
+.app-image{
+    width: 40%;
+    float: right;
 }
+.app-image img{
+    width: 400px;
+    height: 400px;
+    margin-top: -20px;
+    padding-left:50px;   }
