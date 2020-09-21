@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     height: 100%;
-    background: #642670;
+    background: #1d8391;
 }
 .menu ul{
     display: inline-flex;
@@ -36,8 +36,8 @@
     color:rgb(62, 161, 207);
     border: 2px solid transparent;
     border-radius: 20px;
-    background-image: linear-gradient(#42455a, #38474d),
-    radial-gradient(circle at top left,#fd00da,#19f83e);
+    background-image: linear-gradient(#42455a, #38484d),
+    radial-gradient(circle at top left,#00fdb1,#4df819);
     background-origin: border-box;
     background-clip:content-box,border-box;
 }
