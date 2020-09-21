@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     height: 100%;
-    background: #1d8391;
+    background: #4d5758;
 }
 .menu ul{
     display: inline-flex;
@@ -26,7 +26,7 @@
     margin-right: 48px;
 }
 .active{
-    color:#39b34d !important;
+    color:#639aa1 !important;
 }
 .signup-btn{
     top:40px;
@@ -36,8 +36,8 @@
     color:rgb(62, 161, 207);
     border: 2px solid transparent;
     border-radius: 20px;
-    background-image: linear-gradient(#42455a, #38484d),
-    radial-gradient(circle at top left,#00fdb1,#4df819);
+    background-image: linear-gradient(#42455a, #547781),
+    radial-gradient(circle at top left,#00fdb1,#525d64);
     background-origin: border-box;
     background-clip:content-box,border-box;
 }
@@ -77,14 +77,14 @@
 }
 .app-image img{
     width: 400px;
-    height: 400px;
-    margin-top: -20px;
+    height: 300px;
+    margin-top: 50px;
     padding-left:50px;   
 }
 .play-btn{
     margin-right: 40px;
     
-    margin-top: 120px;
+    margin-top: 240px;
     
 }
 .play-btn-inner{
@@ -115,7 +115,7 @@ small{
     left: 0;
     bottom: 0;
     position: absolute;
-    background: linear-gradient(to right, #12669e,#19d7f8 );
+    background: linear-gradient(to right, #1184d1,#19d7f8 );
 }
 .quick-links ul{
     display: inline-flex;
