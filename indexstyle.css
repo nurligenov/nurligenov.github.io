@@ -51,14 +51,14 @@
     top: 25%;
     left: 130px;
     position: absolute;
-    color: white;
+    color: rgb(73, 102, 116);
 }
 .app-text{
     width:50% ;
     float: left;
 }
 .app-text h1{
-    font-size:43px;
+    font-size:30px;
     width: 640px;
     position: relative;
     margin-left:40px ;
@@ -68,7 +68,7 @@
     width: 650px;
     position: relative;
     margin-left:40px 0 40px;
-    line-height: 50px;
+    line-height: 30px;
     color: rgb(37, 202, 231);
 }
 .app-image{
