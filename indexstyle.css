@@ -147,9 +147,9 @@ small{
     text-align: center;
 }
 .social-icons ul li a{
-    color: #999;
+    color: rgb(50, 96, 102);
     border-radius: 50%;
-    border: 1px solid #999;
+    border: 1px solid rgb(47, 73, 85);
     padding: 5px;
     display: block;
 }
