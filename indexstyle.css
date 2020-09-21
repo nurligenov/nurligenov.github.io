@@ -20,8 +20,8 @@
     cursor:pointer;
 }
 .logo img{
-    width:60px;
-    height: 60px;
+    width:90px;
+    height: 40px;
     margin-top:-7px;
     margin-right: 48px;
 }
@@ -93,7 +93,7 @@
     border: 2px solid transparent;
     border-radius: 50%;
     background-image: linear-gradient(#42455a, #38474d),
-    radial-gradient(circle at top left,#fd00da,#19f83e);
+    radial-gradient(circle at top left,#00b5fd,#19ccf8);
     background-origin: border-box;
     background-clip:content-box,border-box;
     text-align: center;
