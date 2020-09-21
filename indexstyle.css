@@ -20,8 +20,8 @@
     cursor:pointer;
 }
 .logo img{
-    width:90px;
-    height: 40px;
+    width:120px;
+    height: 30px;
     margin-top:-7px;
     margin-right: 48px;
 }
@@ -54,18 +54,18 @@
     color: rgb(73, 102, 116);
 }
 .app-text{
-    width:50% ;
+    width:40% ;
     float: left;
 }
 .app-text h1{
     font-size:30px;
-    width: 640px;
+    width: 240px;
     position: relative;
     margin-left:40px ;
 }
 .app-text p{
     font-size:15px;
-    width: 650px;
+    width: 240px;
     position: relative;
     margin-left:40px 0 40px;
     line-height: 30px;
@@ -115,7 +115,7 @@ small{
     left: 0;
     bottom: 0;
     position: absolute;
-    background: linear-gradient(to right, #db1bf6,#19d7f8 );
+    background: linear-gradient(to right, #12669e,#19d7f8 );
 }
 .quick-links ul{
     display: inline-flex;
